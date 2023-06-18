@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyForm/static/css/main.5f1619c1.css",
+    "main.js": "/MyForm/static/js/main.6fcdeb41.js",
+    "static/media/homeart.jpg": "/MyForm/static/media/homeart.90658cca49afe32a3f56.jpg",
+    "static/media/celebal.webp": "/MyForm/static/media/celebal.ab57328da32d97d85c58.webp",
+    "index.html": "/MyForm/index.html",
+    "main.5f1619c1.css.map": "/MyForm/static/css/main.5f1619c1.css.map",
+    "main.6fcdeb41.js.map": "/MyForm/static/js/main.6fcdeb41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f1619c1.css",
+    "static/js/main.6fcdeb41.js"
+  ]
+}
